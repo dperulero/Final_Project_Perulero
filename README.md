@@ -1,2 +1,4 @@
 # Final_Project_Perulero
 For this Project, I ran the script on my local VM machine. I wasn't entirely sure how to link GitHub and my local machine together, but I did give a good effort. In one of my screenshots, you can see how I tried to link it in my project submissions; otherwise, I wasn't sure how to add my link to the submission. Other than that, the project was relatively simple after messing around with the syntax for 40 minutes. I did need to correct my lines a few times, but afterwards I ran the script just fine. I've included more explanation on my difficulties in my final discussion. Thank you, Mr.Gilson, for being an awesome teacher!
+
+Edit, I was able to finally link my local terminal to GitHub sir. I understand that this happened a few minutes after the submission deadline so I understand if it doesn't count. However if you want to see my work, it is under the master branch. Once again thank you. 
